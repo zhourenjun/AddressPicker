@@ -1,5 +1,5 @@
 # AddressPicker
-AndroidX版省市区地址选择
+AndroidX版省市区地址选择,代码为kotlin版
 
 ## Demo
 ![Demo](device-2019-12-19-102617.png)
